@@ -30,7 +30,7 @@ This repository is a snapshot of **everything I wrote myself** while learning Ja
 ## 📁 Repository Structure
 
 ```
-head-first-java-practice/
+Head_first_java_3_edition/
 │
 ├── chapter_01/          # Diving In — variables, loops, if/else, basic I/O
 ├── chapter_02/          # Classes & Objects — fields, methods, object state
